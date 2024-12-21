@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm İsmail Ayberk SAĞ</h1>
 <h3 align="center">Computer Engineering Student at Konya Technical University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailayberksag&label=Profile%20views&color=e60f0f&style=flat" alt="ismailayberksag" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailayberksag&label=Profile%20views&color=e60f0f&style=flat" alt="ismailayberksag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailayberksag" alt="ismailayberksag" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailayberksag" alt="ismailayberksag" /></a> </p>
 
 - 🔭 I’m currently working on **Java, Python, JavaScript**
 
