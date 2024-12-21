@@ -23,5 +23,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ismailayberksag&show_icons=true&locale=en" alt="ismailayberksag" /></p>
 
+<div style="margin-top: 20px;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailayberksag&" alt="ismailayberksag" /></p>
-
+<div>
